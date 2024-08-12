@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "CSPM EXECUTIVE DAHSBOARD",
+      "widgets": [
+        {
+          "id": "1723480587090",
+          "name": "Cloud Account",
+          "text": "add your cloud Account"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "CWPP dashbanpard ",
+      "widgets": []
+    },
+    {
+      "id": "2",
+      "name": "Resgistry scan ",
+      "widgets": []
+    }
+  ]
+}
